@@ -20,6 +20,11 @@ function App() {
       caption: 'I like flowers',
       imageUrl: 'https://i.pinimg.com/originals/98/22/77/9822777147bff1a2de272cd8f2c31456.jpg'
     },
+    {
+      username: 'KrishMikey',
+      caption: 'I like programming',
+      imageUrl: 'https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2-1024x439.jpg'
+    }
   ]);
 
   return (
